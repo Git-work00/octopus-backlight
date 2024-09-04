@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "rainwalker")(type "KiCad")(uri "${KIPRJMOD}/rainwalker.pretty")(options "")(descr ""))
+)
